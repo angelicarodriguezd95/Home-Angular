@@ -31,4 +31,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 �
 �
 
-k
+Integrantes:
+integrantes:
+
+Javier Sanchez Chavez
+
+ROSA ANGELICA RODRIGUEZ
+
+MERY CINDY VILLAVERDE
+
+Julio Cesar Falcon Valencia
